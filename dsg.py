@@ -1,5 +1,6 @@
 import requests
 import json
+
 def check_stock():
 
 	sku = ['21861756'] #Sku you want to monitor
