@@ -18,8 +18,7 @@ def check_stock():
   	  'sec-fetch-mode': 'cors',
     	'sec-fetch-dest': 'empty',
    	 'referer': link ,
-  	  'accept-language': 'en-US,en;q=0.9',
-		}
+  	  'accept-language': 'en-US,en;q=0.9'}
 
 	params = (
 	    ('location', "0"),
